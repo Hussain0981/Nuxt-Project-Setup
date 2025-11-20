@@ -1,2 +1,7 @@
 @import "tailwindcss";
 @import "@nuxt/ui";
+
+
+.backColor {
+  @apply bg-white/70 dark:bg-gray-700/40;
+}
